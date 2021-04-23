@@ -5,12 +5,7 @@
           box-sizing: border-box;
 }
 
-body {
-  background: #F1F1F1;
-  font-family: 'Roboto', sans-serif;
-  -webkit-transition: .3s ease all;
-  transition: .3s ease all;
-}
+
 
 body.dark {
   background: #111111;
